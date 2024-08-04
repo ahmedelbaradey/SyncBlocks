@@ -365,7 +365,7 @@ Backups & Applying Point on Time Restoring Data techniques will achieve this eas
 |**Actors:**|Any user  |
 |**Pre-conditions:**|<p>- The user is already added in the system   </p><p>- User hasn’t saved his/her login information </p>|
 |**Business Rules** |None |
-|**Basic Flow:**|<p>1\. User opens the system URL </p><p>2\. System displays the log-in form </p><p>3\. User fills-in the [Log-in Form](C:\Users\elbar\Desktop\WTW_Travel Insurance System_SRS_V2.0.docx#_Log-in_1), and clicks "Enter" </p><p>- User can check “Remember Me” option to save the username and password (optional) </p><p>4\. System displays the home page </p>|
+|**Basic Flow:**|<p>1\. User opens the system URL </p><p>2\. System displays the log-in form </p><p>3\. User fills-in the [Log-in Form], and clicks "Enter" </p><p>- User can check “Remember Me” option to save the username and password (optional) </p><p>4\. System displays the home page </p>|
 |**Alternative Flows:**|**NA**|
 |**Exceptions:**|<p>- **Basic flow, in step 3:**</p><p>- If the user entered invalid name or password:</p><p>- System displays an alert below the form: "The username or password you have entered is not valid"</p><p>- The “remember me” option of saving the username and password shall be deactivated. </p>|
 |**Post-conditions:**|` `The user can use the system according to his/her privileges. |
