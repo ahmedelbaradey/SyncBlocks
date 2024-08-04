@@ -1,0 +1,13 @@
+.vs
+.ssh
+.cache
+obj/
+bin/
+internal_logs/
+logs/
+appsettings.json
+config.json
+nlog.config
+web.config
+appsettings.Development.json
+appsettings.Production.json

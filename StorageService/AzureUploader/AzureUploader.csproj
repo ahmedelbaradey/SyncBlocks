@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.Net.SDK">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageId></PackageId>
+    <Authors></Authors>
+    <Product></Product>
+    <Copyright></Copyright>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+    <Description></Description>
+    <Version></Version>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Company />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\COMMS\CrossCuttingLayer\CrossCuttingLayer.csproj" />
+    <ProjectReference Include="..\..\MetaDataService\Shared\Shared.csproj" />
+  </ItemGroup>
+
+</Project>
