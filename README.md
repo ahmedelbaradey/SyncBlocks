@@ -115,7 +115,7 @@ The installation and configuration activities will be in MS AZURE on two environ
 
 - Training
 - Organization will be responsible of holding the following training sessions on the proposed systems based on train-the-trainer concept.
-- The training courses include:
+- The training courses include:Includes:
   - **Business User Training** 
   - **Technical Training** 
 
@@ -369,7 +369,7 @@ Backups & Applying Point on Time Restoring Data techniques will achieve this eas
 |**Alternative Flows:**|**NA**|
 |**Exceptions:**|<p>- **Basic flow, in step 3:**</p><p>- If the user entered invalid name or password:</p><p>- System displays an alert below the form: "The username or password you have entered is not valid"</p><p>- The “remember me” option of saving the username and password shall be deactivated. </p>|
 |**Post-conditions:**|` `The user can use the system according to his/her privileges. |
-|**Includes:**|- [Logout](C:\Users\elbar\Desktop\WTW_Travel Insurance System_SRS_V2.0.docx#_Log-out) |
+|**Includes:**|-  |
 
 1. ##### Log Out
 
