@@ -213,7 +213,8 @@ Too many configurations/customizations could be required by product owner who wi
 
   1. ## **LLD (Low Level Design)**
      1. ### **Overview**
-        ![](Aspose.Words.854bc419-a3bf-4036-bf86-66e3dbe74122.002.png)
+        ![Aspose Words 854bc419-a3bf-4036-bf86-66e3dbe74122 002](https://github.com/user-attachments/assets/bc416f92-23e5-44cb-a3b8-b650698c2247)
+
 
         **Dividing the File into 4MB Blocks**
 
@@ -251,7 +252,8 @@ We have considered one file which is divided into various chunks. If there are m
 
 
 1. #### ***Database Diagram*** 
-![](Aspose.Words.854bc419-a3bf-4036-bf86-66e3dbe74122.003.png)
+![Aspose Words 854bc419-a3bf-4036-bf86-66e3dbe74122 003](https://github.com/user-attachments/assets/ebfdfa1d-b7eb-4842-9def-e37c0161ae21)
+
 1. ### **Specifications**
 
 1. #### ***User Cases***
@@ -294,7 +296,8 @@ Backups & Applying Point on Time Restoring Data techniques will achieve this eas
 
   This following resource estimator allows us to define the scale of the system with different parameters 
 
-![A screenshot of a computer](Aspose.Words.854bc419-a3bf-4036-bf86-66e3dbe74122.004.png)
+![Aspose Words 854bc419-a3bf-4036-bf86-66e3dbe74122 004](https://github.com/user-attachments/assets/46137251-b737-43b0-81fe-c06c457b15b1)
+
 
 1. #### ***Horizontal Scaling***
    We can add more servers behind the load balancer to increase the capacity of each service. This is known as Horizontal Scaling and each service can be independently scaled horizontally in our design.
