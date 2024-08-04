@@ -186,7 +186,8 @@ Too many configurations/customizations could be required by product owner who wi
 1. # **About the System** 
    1. ## <a name="_toc257655379"></a>**HLD (High Level Design)**
       1. ### **Overview**
-![A screenshot of a computer](Aspose.Words.854bc419-a3bf-4036-bf86-66e3dbe74122.001.png)
+![Aspose Words 854bc419-a3bf-4036-bf86-66e3dbe74122 001](https://github.com/user-attachments/assets/25ce2d05-2a15-453d-bb23-02283a6ffd28)
+
 1. ### **Specifications**
    1. #### ***User Uploading***
       Users interact with the client application or web interface to initiate file uploads. The client application communicates with the Load Balancer then Block Service on the server side.
